@@ -1,5 +1,5 @@
-# Diagram2code (aka chOWLk)
-Script to transform an ontogical diagram intro code.
+# chOWLk
+Tool to transform an ontology made in drawio into OWL code.
 
 ### Requirements:
 Install the requirements provided by:
