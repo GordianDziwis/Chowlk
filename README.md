@@ -1,15 +1,6 @@
 # chOWLk
 Tool to transform an ontology made in drawio into OWL code.
 
-### Requirements:
-Install the requirements provided by:
-```bash
-pip install -r requirements.txt
-```
-It just requires:
-* beautifulsoup4==4.9.0
-* soupsieve==2.0
-
 ### How to run it:
 ```bash
 python converter.py path/diagram/xml path/output/ttlfile mode
